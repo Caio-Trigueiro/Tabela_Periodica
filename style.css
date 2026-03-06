@@ -1,0 +1,90 @@
+* {box-sizing: border-box;
+margin: 0;}
+
+table {width: 100%;
+height: 100vh;
+}
+td {
+    text-align: center;
+    width: 5%;
+    height: 8vh
+}
+
+.elemento {border: solid;}
+.Actinídios {background-color: plum;}
+.Nm {background-color: #b3d76a;}
+.OM {background-color: #A2C6D2;}
+.MAL {background-color: #f5c95e;}
+.MALT {background-color: #EFE55B;}
+.GN {background-color: #67AFDE;}
+.SEMIN {background-color: #66C4BC;}
+.HALOG {background-color: #A7DFF3;}
+.Mt {background-color: #F2B0B0;}
+.LANT {background-color: #97D7E1;}
+.ACT {background-color: #E2BDD8;}
+.Nm_box {background-color: #b3d76a;
+    text-align:right;
+    width: 20px;    
+    height: 20px;
+}
+
+.MAL_box {background-color: #f5c95e;
+    width: 20px;
+    height: 20px;
+}
+
+.SEMIN_box{
+    background-color: #66C4BC;
+        text-align:right;
+        width: 20px;    
+        height: 20px;
+}
+
+.OM_box {
+    background-color: #A2C6D2;
+    text-align:right;
+    width: 20px;    
+    height: 20px;
+}
+
+.LANT_box{
+    background-color: #97D7E1;
+    text-align:right;
+    width: 20px;    
+    height: 20px;
+}
+
+.GN_box{
+    background-color: #67AFDE;
+    text-align:right;
+    width: 20px;    
+    height: 20px;
+}
+
+.MALT_box{
+    background-color: #EFE55B;
+    text-align:right;
+    width: 20px;    
+    height: 20px;
+}
+
+.HALOG_box{
+    background-color: #A7DFF3;
+    text-align:right;
+    width: 20px;    
+    height: 20px; 
+}
+
+.Mt_box{
+    background-color: #F2B0B0;
+    text-align:right;
+    width: 20px;    
+    height: 20px; 
+}
+
+.ACT_box{
+    background-color: #e2bdd8;
+    text-align:right;
+    width: 20px;    
+    height: 20px; 
+}
