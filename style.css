@@ -9,7 +9,7 @@ td {
     width: 5%;
     height: 8vh
 }
-
+div {text-align: left;}
 .elemento {border: solid;}
 .Actinídios {background-color: plum;}
 .Nm {background-color: #b3d76a;}
@@ -87,4 +87,5 @@ td {
     text-align:right;
     width: 20px;    
     height: 20px; 
+
 }
